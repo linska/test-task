@@ -1,0 +1,58 @@
+//-----------------------------
+
+.block {
+  display: block;
+}
+
+.inl-block{
+  display: inline-block;
+}
+
+//-----------------------------
+
+.rel {
+  position: relative;
+}
+
+.abs {
+  position: absolute;
+}
+
+.fixed{
+  position: fixed;
+}
+
+//-----------------------------
+
+.center {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.left {
+  text-align: left;
+}
+
+//-----------------------------
+.mb{
+  margin-bottom: calc(100vh / 10);
+}
+
+//-----------------------------
+
+$white:       #FFFFFF;
+$gray:        #65615d;
+$dark-gray:   #252526;
+        //#333335;
+$black:       #000000;
+$light-gray:  #CCCCCC;
+$red:         #fcba03;
+$green:       #B6CEBF;
+
+$dark-blue:   #1e2b34;
+
+$prime:       $black;
+$second:      $red;
+$third:       $white;
+
+//-----------------------------
